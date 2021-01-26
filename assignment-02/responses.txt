@@ -1,0 +1,5 @@
+The world wide web is different than the internet because it is the pages you see when on devices and the internet is the network that connects computers.
+The internet is a network that is made up of routers that know how to move packets along form their source to their destinations. 
+A directory is a location for storing files on a computer. Its relationship to files is you are able references files into directories. 
+VCS will benefit by providing active support by protecting your files.
+My favprite type of art is landscape photography.
