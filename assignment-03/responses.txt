@@ -1,0 +1,4 @@
+https://www.nike.com https://www.rei.com https://www.netflix.com/browse
+The relationship between an IP address and the DNS is that they go together when creating a website. You need the domain name to establish from other websites and the IP address is the server being used to communicate to other softwares.
+Cookies are built for web browsers to track, personalize, and save information about each user that accesses the website.
+Protocol, the domain name, and the path
