@@ -1,0 +1,2 @@
+The differences between padding, margin, and borders are simple. Padding is the amount of space between the inner content of the element and the element itself. Margin is the space between the box/element and other elements, or the edge of the parent element. Boraders are the amount of space that outline the padding and the content. 
+A challenge I had this week was getting my fonts to show up correctly in my browser. I was wanting them to look the same as they did in assignment 11, but they were not transfering correctly. 
