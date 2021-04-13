@@ -1,0 +1,3 @@
+My imaginary client is a wedding photographer looking to create a website for her and her fellow employees to display their photography. She described her site needs by wanting a clean, crisp layout with easy access to information.
+It is important to consider a mobile-first design because it aims to create better experiences for users by starting the design process from small mobile screens. Therefore, designing your websites for mobile devices first will help ensure that the user's experience is seamless on any device.
+This assignment was challenging for me this week because there were so many little details throughout. However, I attempted to overcome this hurdle by referring back to the example. I believe I followed along correctly. 
