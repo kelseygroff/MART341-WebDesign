@@ -1,2 +1,0 @@
-Everything I learned about web development was all new to me. It was fascinating to learn what goes on behund the scenes because you never think twice about the time it takes to code an entire website. 
-Once again, everything we learned about web design was all new to me as well. The coding behind every color, font, image, etc. is so detail oriented. 
